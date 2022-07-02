@@ -1,0 +1,27 @@
+1. Cells is a rectangular area formed by intersection of a column and a row. It is identified by the cells name. 
+
+2. In order to protect your worksheet from getting copied, you need to go into : Menu bar >Review > Protect sheet > Password. By entering password, you can secure your worksheet from getting copied by others.
+
+
+3. Right click on the tab that you want to copy, and then click Move or Copy…
+* In the Move or Copy dialog box, do the following:
+* Under To book, choose the target file. To place a copy into a new workbook, select (new book).
+* Under Before sheet, specify where to put the copy.
+* Select the Create a copy box.
+* Click OK.
+
+
+4. Ctrl+N 
+
+5.
+* Menu bar. The menu bar displays all of the menus available for use in Excel XP. 
+* Column headings. 
+* Row headings. 
+* Name box. 
+* Formula bar. 
+* Cell. 
+* Navigation buttons and sheet tabs.
+* sheet
+
+6. This reference changes when the formula is copied to any other cell or any other worksheet. Relative cell references are used whenever calculations need to be repeated.
+
